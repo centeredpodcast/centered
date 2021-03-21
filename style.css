@@ -10,7 +10,7 @@ img {
 
 .button {
   background-color: white;
-  box-shadow: blue;
+  box-shadow: rgb(0,15,255);
   color: white;
   padding: .2em .4em;
   position: relative;
